@@ -42,8 +42,6 @@ public class Code implements Serializable, Cloneable
    private String user;
    private String hash;
    
-   private String test;
-
    @Id
    @GeneratedValue(strategy = GenerationType.IDENTITY)
    @Column(name = "id")
