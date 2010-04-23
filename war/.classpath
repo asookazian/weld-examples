@@ -1,0 +1,8 @@
+<classpath>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/faces/jsf-api/2.0.2-FCS/jsf-api-2.0.2-FCS.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/web/el-impl/2.1.2-b04/el-impl-2.1.2-b04.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/testng/testng/5.10/testng-5.10-jdk15.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+</classpath>

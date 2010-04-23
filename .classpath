@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejb/src/main/java"/>
+	<classpathentry kind="lib" path="ear/target/weld-translator-sources.jar"/>
+	<classpathentry kind="lib" path="ear/target/weld-translator/weld-translator.jar"/>
+	<classpathentry kind="lib" path="ejb/target/weld-translator-sources.jar"/>
+	<classpathentry kind="lib" path="ejb/target/weld-translator.jar"/>
+	<classpathentry kind="lib" path="war/target/weld-translator-sources.jar"/>
+	<classpathentry kind="lib" path="war/target/weld-translator/WEB-INF/lib/el-impl-2.1.2-b04.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/JBoss 6.0 Runtime"/>
+	<classpathentry kind="output" path="ejb/target/classes"/>
+</classpath>
